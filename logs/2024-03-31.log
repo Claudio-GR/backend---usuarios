@@ -1,0 +1,158 @@
+
+Started POST /log_user for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 21:36:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"Sofi.unicornio@gmail.com","password":"7788009Jhon"}}
+Completed: 500 message:  Time response: 177 ms Request ID: [35d6e0fb-c801-4c86-b2d6-d0e5a04f6f7f]
+
+Started POST /log_user for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 21:37:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"Sofi.unicornio@gmail.com","password":"7788009Jhon"}}
+Completed: 500 message:  Time response: 146 ms Request ID: [9940a80e-b112-4a15-a3ad-c884eddd6ee6]
+
+Started POST /log_user for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 21:37:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"Sofi.unicornio@gmail.com","password":"7788009Jhon"}}
+Completed: 200 message:  Time response: 127 ms Request ID: [65f4748d-1fe0-420f-b2f8-c2fe9bcd5e7a]
+
+Started POST /log_user for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 21:38:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"Sofi.unicornio@gmail.com","password":"7788009Jhon"}}
+Completed: 200 message:  Time response: 127 ms Request ID: [0d8dd818-c5a8-491d-a1aa-92ecdf176f91]
+
+Started POST /log_user for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 21:39:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"Sofi.unicornio@gmail.com","password":"7788009Jhon"}}
+Completed: 200 message:  Time response: 128 ms Request ID: [d5eddfc8-5f39-4d49-a9e9-bebf5ffa25d2]
+
+Started POST /log_user for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 21:51:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"Sofi.unicornio@gmail.com","password":""}}
+Completed: 400 message:  Time response: 7 ms Request ID: [575dc530-83e5-4993-b678-2a57a42dfe2f]
+
+Started POST /log_user for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 21:51:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"Sofi.unicornio@gmail.com","password":"7788009Jhon"}}
+Completed: 200 message:  Time response: 181 ms Request ID: [83190693-5508-415c-bb22-5f6cabca7011]
+
+Started POST /users for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:09:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus","role":"developer","language":"react javascrypt"}}
+Completed: 404 message:  Time response: 8 ms Request ID: [65b322aa-c8e8-4b5c-8b3a-f6cf4a97cf1d]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:09:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus","role":"developer","language":"react javascrypt"}}
+Completed: 201 message:  Time response: 182 ms Request ID: [5f475e92-b0d8-40e0-8f82-577978fb7f7d]
+
+Started POST /log_user for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:10:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [d1d1959f-d3b8-474d-b3b9-e3b0e40db4db]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:10:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 201 ms Request ID: [8aad7c9f-0f58-431e-8b17-4a44a29a271a]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:14:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 131 ms Request ID: [5b623747-f24d-4607-a1bd-b9e8ed3980e9]
+
+Started GET /claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:15:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [df72cacd-bab4-4144-b21a-5de458472f88]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:15:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:16:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:19:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 134 ms Request ID: [cd376a69-c76a-4d8b-a461-9bb84f0971e0]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:19:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:21:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 130 ms Request ID: [475f88fb-7af5-42af-a6e9-9bb1daf8024b]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:22:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:24:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 132 ms Request ID: [7ebc0a34-f078-4146-8315-643a5648f901]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:24:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:32:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 131 ms Request ID: [b49eb8ef-8e8b-468d-82c9-95706311cb48]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:32:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:49:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 173 ms Request ID: [619c2247-0772-473f-960f-756f80af48be]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:49:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 59 ms Request ID: [0d15de48-02e7-4541-8a3c-7dad555790b1]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:51:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:52:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 136 ms Request ID: [9c0816ea-9f93-43f3-aa37-f3cd9935903d]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:52:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 70 ms Request ID: [614ae52a-1338-4bcb-b0dd-c49d0e15bfed]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:53:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 125 ms Request ID: [06c8b551-f9d2-4302-9a25-ff3c4c28ea54]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:54:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 15 ms Request ID: [bd70115d-b885-4d93-9a70-0e0f8ff295d3]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:54:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 132 ms Request ID: [39232a39-df8e-463e-b418-5dea3d1d7548]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:54:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 62 ms Request ID: [500a047c-2da8-468e-bed1-bcd9f462cd90]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:55:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 400 message:  Time response: 13 ms Request ID: [c0e4df4c-4c8d-42d7-8c65-e901536869a1]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:55:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 132 ms Request ID: [c54479dc-aa95-4de7-b9c3-77388a9c995b]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:56:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 20 ms Request ID: [d2fb6c60-1f02-46d5-b8fa-4344c66a9923]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:56:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 136 ms Request ID: [e3a3bab0-25ec-4898-a1cd-f2965184ffd0]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:56:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 62 ms Request ID: [cd1da4c1-3d87-4a79-8c38-bb7fe43738b0]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:57:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 142 ms Request ID: [0be66706-18cc-42eb-8dc0-e5f4e5637df0]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:57:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 21 ms Request ID: [706f3b30-5723-4486-8285-161c62507d6f]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:58:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 136 ms Request ID: [0a6d775f-2d7b-45c0-9b46-fbaee87b392a]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:58:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 24 ms Request ID: [c26c2f12-854d-4201-9ed5-48f89343284f]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:59:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"claudio.gonzalez@gmail.com","password":"autralopitecus"}}
+Completed: 200 message:  Time response: 143 ms Request ID: [474779a2-7f3c-40ab-b4d1-b0d10c85df90]
+
+Started GET /usuarios/claudio.gonzalez@gmail.com for :: ::ffff:127.0.0.1 at Sun Mar 31 2024 12:59:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 19 ms Request ID: [442ceda2-7277-4e00-bf32-d1a0a7f7d96a]

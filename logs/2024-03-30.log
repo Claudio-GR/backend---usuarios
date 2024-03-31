@@ -1,0 +1,20 @@
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 18:35:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"name":"Sofía","lastnme":"Gonzalez","email":"Sofi.unicornio@gmail.com","password":"7788009Jhon"}}
+Completed: 404 message:  Time response: 8 ms Request ID: [1bcf5902-71d7-42d5-ac91-a5b2d7103f60]
+
+Started POST /api/v1/users for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 18:35:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"name":"Sofía","lastnme":"Gonzalez","email":"Sofi.unicornio@gmail.com","password":"7788009Jhon"}}
+Completed: 404 message:  Time response: 7 ms Request ID: [723f403b-91dc-42fd-84d7-209db034bc0e]
+
+Started POST /users for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 18:38:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"name":"Sofía","lastnme":"Gonzalez","email":"Sofi.unicornio@gmail.com","password":"7788009Jhon"}}
+Completed: 400 message:  Time response: 6 ms Request ID: [262014b8-e612-4ae0-883d-a0d1f0ae6d04]
+
+Started POST /users for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 18:38:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"name":"Sofía","lastname":"Gonzalez","email":"Sofi.unicornio@gmail.com","password":"7788009Jhon"}}
+Completed: 400 message:  Time response: 196 ms Request ID: [8c964b0f-ddae-49a6-805f-0867d3e9b6d4]
+
+Started POST /users for :: ::ffff:127.0.0.1 at Sat Mar 30 2024 18:43:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"Sofi.unicornio@gmail.com","password":"7788009Jhon","role":"veterinaria","language":"spanish"}}
+Completed: 201 message:  Time response: 168 ms Request ID: [031c1808-c6d9-4956-a7a7-6244da77398d]
